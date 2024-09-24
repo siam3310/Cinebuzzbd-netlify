@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'FreeGuyBD',
-  subtitle: 'Premium is nothing',
+  title: 'CineBuzZBD',
+  subtitle: 'Download movies for nothing',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -19,7 +19,7 @@ export const siteConfig: SiteConfig = {
     src: 'https://i.ibb.co.com/z5KtZxJ/welcome-to-freeguybd.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
-      enable: true,         // Display the credit text of the banner image
+      enable: false,         // Display the credit text of the banner image
       text: 'For Download Movies Visit Here.',              // Credit text to be displayed
       url: 'https://cinebuzzbd.pages.dev'                // (Optional) URL link to the original artwork or artist's page
     }
@@ -44,8 +44,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'https://i.ibb.co/hLVnHgF/54b93dfb-c668-406b-9ae0-b3860e5d0ce3.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Mahamudun Nabi',
-  bio: 'Get premium resources for free.',
+  name: 'Mahamudun Nabi Siam',
+  bio: 'Learning...',
   links: [
     {
       name: 'Twitter',
