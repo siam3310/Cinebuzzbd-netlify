@@ -1,7 +1,7 @@
 ---
 title: Hotel Relax  S01 FULL
 published: 2024-09-23
-description: This post demonstrates how to include embedded video in a blog post.
+image: "https://image.tmdb.org/t/p/original/kMNkApA9jCHy7ABVSNRHeuDmxTZ.jpg"
 tags: [kajal arefin ome,bangla,web-series]
 category: Bangla
 draft: false
@@ -12,21 +12,13 @@ draft: false
 ![hotel.relax ](https://image.tmdb.org/t/p/original/kMNkApA9jCHy7ABVSNRHeuDmxTZ.jpg)   
 ## Watch
 
-<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fcinebazz.simovies.workers.dev%2F0%3A%2FHotel.Relax.S01.FULL.720p.mkv&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"  style="border:0px #ffffff none;" height="100%" width="100%" allowfullscreen></iframe>
+<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fcinebazz.simovies.workers.dev%2F0%3A%2FHotel.Relax.S01.FULL.720p.mkv&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 ## Download  
 
 
-  [    ![Download-1](https://i.ibb.co.com/C81b9br/download1.png) ](https://cinebazz.simovies.workers.dev/0:/Hotel.Relax.S01.FULL.720p.mkv) 
+  [![Download-1](https://i.ibb.co.com/C81b9br/download1.png)](https://cinebazz.simovies.workers.dev/0:/Hotel.Relax.S01.FULL.720p.mkv) 
 
-  [    ![Download-1](https://i.ibb.co.com/f0N5ptT/download2.png) ](https://cinebazz.simovies.workers.dev/0:/Hotel.Relax.S01.FULL.720p.mkv) 
-## 
+  [![Download-1](https://i.ibb.co.com/f0N5ptT/download2.png)](https://cinebazz.simovies.workers.dev/0:/Hotel.Relax.S01.FULL.720p.mkv) 
+ 
 
-:::Watch
-## Watch
-:::
- :::## Watch
-:::
-:::
- ::: ## Watch
-:::
