@@ -8,8 +8,7 @@ draft: false
 ---
 
 # Hotel Relax - Season 1 Full | Web-series Watch & Download
-
-![hotel.relax ](https://image.tmdb.org/t/p/original/kMNkApA9jCHy7ABVSNRHeuDmxTZ.jpg)   
+  
 ## Watch
 
 <iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fcinebazz.simovies.workers.dev%2F0%3A%2FHotel.Relax.S01.FULL.720p.mkv&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
