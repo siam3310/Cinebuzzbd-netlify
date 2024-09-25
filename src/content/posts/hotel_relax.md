@@ -2,7 +2,7 @@
 title: Hotel Relax  S01 FULL
 published: 2024-09-23
 description: This post demonstrates how to include embedded video in a blog post.
-tags: [kajal arefin ome,bangla,web-series,2024]
+tags: [kajal arefin ome,bangla,web-series]
 category: Bangla
 draft: false
 ---
