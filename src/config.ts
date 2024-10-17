@@ -20,8 +20,8 @@ export const siteConfig: SiteConfig = {
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
       enable: true,         // Display the credit text of the banner image
-      text: 'For Watch live Sports Visit Here.',              // Credit text to be displayed
-      url: 'https://sportbuzz.netlify.app'                // (Optional) URL link to the original artwork or artist's page
+      text: 'For live Sports Visit Here.',              // Credit text to be displayed
+      url: 'https://freecatv.pages.dev'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   favicon: [    // Leave this array empty to use the default favicon
@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'https://i.ibb.co/hLVnHgF/54b93dfb-c668-406b-9ae0-b3860e5d0ce3.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://i.ibb.co.com/G3DYD6H/profile.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Mahamudun Nabi Siam',
   bio: 'Learning...',
   links: [
