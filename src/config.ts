@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'https://i.postimg.cc/x1hkG1t6/profile.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://pub-e589435eaea240798b2c94206f7d060d.r2.dev/resources/profile.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Mahamudun Nabi Siam',
   bio: 'Learning...',
   links: [
