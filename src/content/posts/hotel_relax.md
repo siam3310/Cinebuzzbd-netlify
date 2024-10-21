@@ -16,9 +16,7 @@ draft: false
 ## Download  
 
 
-  [![Download-1](https://i.ibb.co.com/C81b9br/download1.png)](https://cinebazz.simovies.workers.dev/0:/Hotel.Relax.S01.FULL.720p.mkv) 
-
-  [![Download-1](https://i.ibb.co.com/f0N5ptT/download2.png)](https://m.gdfile.org/file/1tABdIGbLfB7) 
+* ##  [Download - 720P- GDrive server](https://cinebazz.simovies.workers.dev/0:/Hotel.Relax.S01.FULL.720p.mkv) 
 
 ## 
  
