@@ -11,7 +11,7 @@ draft: false
   
 ## Watch
 
-<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=false&loop=true&url=https://pixeldrain.com/api/file/Ud4zqksn?download&poster=https://upload-cloudfalre-r2-assets.omrecipes.dev/Screenshot_20241022-125930.png&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
+<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://freecatv.pages.dev/gdplayer?player=plyr&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/Ud4zqksn?download"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 ## Download  
 
