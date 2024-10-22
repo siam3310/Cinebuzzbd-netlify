@@ -11,7 +11,7 @@ draft: false
   
 ## Watch
 
-<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://freecatv.pages.dev/gdplayer?player=plyr&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/Jy9bgnfx"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
+<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://freecatv.pages.dev/gdplayer?player=plyr&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/Jy9bgnfx?download"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 ## Download  
 
