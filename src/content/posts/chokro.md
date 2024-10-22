@@ -1,5 +1,5 @@
 ---
-title: Chokro 2024 Bangla Web Series
+title: Chokro 2024 Bangla Web Series Season 1 Full
 published: 2024-10-21
 image: "https://img.youtube.com/vi/9rh5zf3x-ig/maxresdefault.jpg"
 tags: [bangla]
