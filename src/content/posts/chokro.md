@@ -2,10 +2,12 @@
 title: Chokro 2024 Bangla Web Series
 published: 2024-10-21
 image: "https://img.youtube.com/vi/9rh5zf3x-ig/maxresdefault.jpg"
-tags: [bangla,2024]
+tags: [bangla]
 category: Bangla
 draft: false
 ---
+
+
 
 # Chokro.S01E01.720p.iScreen.WEB-DL.AAC2.0.H.264[FREEGUYBD.NETLIFY.APP]720p.mp4 Watch & Download
   
