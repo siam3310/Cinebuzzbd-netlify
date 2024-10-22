@@ -1,8 +1,8 @@
 ---
-title: Daman 2022
+title: Daman (2022) 
 published: 2024-10-21
 image: "https://upload-cloudfalre-r2-assets.omrecipes.dev/Screenshot_20241022-125930.png"
-tags: [hindi-dubb,2022,odia]
+tags: [hindi-dubb,odia]
 category: Hindi
 draft: false
 ---
