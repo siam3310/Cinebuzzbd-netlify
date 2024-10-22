@@ -20,9 +20,11 @@ draft: false
 
 * ##  [Download - Chokro.S01E01.720p.iScreen.mkv](https://pixeldrain.com/api/file/3mYGfj2E?download)
 * ##  [Download - Chokro.S01E02.720p.iScreen.mkv](https://pixeldrain.com/api/file/ex29EAtr?download)
-* ##  [Download - Chokro.S01E02.720p.iScreen.mkv](https://pixeldrain.com/api/file/ex29EAtr?download)
-* ##  [Download - Chokro.S01E02.720p.iScreen.mkv](https://pixeldrain.com/api/file/ex29EAtr?download)
-* ##  [Download - Chokro.S01E02.720p.iScreen.mkv](https://pixeldrain.com/api/file/ex29EAtr?download)
+* ##  [Download - Chokro.S01E03.720p.iScreen.mkv](https://pixeldrain.com/api/file/RhkWuxcJ?download)
+* ##  [Download - Chokro.S01E04.720p.iScreen.mkv](https://pixeldrain.com/api/file/ggzrbdHy?download)
+* ##  [Download - Chokro.S01E05.720p.iScreen.mkv](https://pixeldrain.com/api/file/bmWu6EU6?download)
+* ##  [Download - Chokro.S01E06.720p.iScreen.mkv](https://pixeldrain.com/api/file/9KSR9V1G?download)
+* ##  [Download - Chokro.S01E07.720p.iScreen.mkv](https://pixeldrain.com/api/file/DxXTJbUv?download)
 * ### more episodes coming soon..
 
 ## 
