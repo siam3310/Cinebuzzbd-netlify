@@ -1,5 +1,5 @@
 ---
-title: Chokro
+title: Chokro 2024 Bangla Web Series
 published: 2024-10-21
 image: "https://img.youtube.com/vi/9rh5zf3x-ig/maxresdefault.jpg"
 tags: [bangla,2024]
@@ -16,7 +16,8 @@ draft: false
 ## Download  
 
 
-* ##  [Download - Chokro.S01E01.720p.iScreen.WEB-DL.AAC2.0.H.264-FREEGUYBD.mkv](https://pixeldrain.com/api/file/3mYGfj2E?download) 
+* ##  [Download - Chokro.S01E01.720p.iScreen.mkv](https://pixeldrain.com/api/file/3mYGfj2E?download)
+* ### more episodes coming soon..
 
 ## 
 FREEGUYBD is a noteworthy platform for individuals seeking to download the latest movies without incurring any costs. This website, accessible at freeguybd.netlify.app, offers users the opportunity to explore a diverse selection of films across various genres. One of the standout features of FREEGUYBD is its commitment to providing a seamless user experience; visitors can enjoy downloading movies without being subjected to intrusive advertisements, which often detract from the enjoyment of online browsing.
