@@ -1,6 +1,6 @@
 ---
 title: Furiosa A Mad Max Saga (2024) Hindi-Dubb
-published: 2024-09-25
+published: 2024-10-25
 image: "https://img.youtube.com/vi/XJMuhwVlca4/maxresdefault.jpg"
 tags: [hindi-dubbed,hindi,hollywood]
 category: Hindi-Dubb
