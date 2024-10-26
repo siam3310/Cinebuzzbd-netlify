@@ -11,13 +11,13 @@ draft: false
   
 ## Watch
 
-<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fcinebazz.simovies.workers.dev%2F0%3A%2FHotel.Relax.S01.FULL.720p.mkv&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
+<iframe  frameborder="0"  allowfullscreen="true"  scrolling="no"  allow="autoplay;fullscreen"  src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://spyderrock.com/urjf5113-Furiosa.mkv"  style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 ## Download  
 
 
-* ##  [Download - 720P - Furiosa.A.Mad.Max.Saga.(2024).Dual.720p.mkv](https://es.vikingfile.com/download/Pgce6d6meP/Furiosa.A.Mad.Max.Saga.(2024).Dual.720p.mkv) 
-
+* ##  [Download - 720P - 1 - Furiosa.A.Mad.Max.Saga.(2024).Dual.720p.mkv](https://spyderrock.com/urjf5113-Furiosa.mkv) 
+* ##  [Download - 720P - 2 - Furiosa.A.Mad.Max.Saga.(2024).Dual.720p.mkv](https://vik1ngfile.uk.to/f/E7iOL9CpgZ) 
 ## 
 FREEGUYBD is a noteworthy platform for individuals seeking to download the latest movies without incurring any costs. This website, accessible at freeguybd.netlify.app, offers users the opportunity to explore a diverse selection of films across various genres. One of the standout features of FREEGUYBD is its commitment to providing a seamless user experience; visitors can enjoy downloading movies without being subjected to intrusive advertisements, which often detract from the enjoyment of online browsing.
 
