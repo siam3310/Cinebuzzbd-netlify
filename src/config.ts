@@ -15,11 +15,11 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
-    src: 'https://i.ibb.co.com/z5KtZxJ/welcome-to-freeguybd.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: true,
+    src: 'https://upload-cloudfalre-r2-assets.omrecipes.dev/standard%20(1).gif',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
-      enable: true,         // Display the credit text of the banner image
+      enable: false,         // Display the credit text of the banner image
       text: 'For live Sports Visit Here.',              // Credit text to be displayed
       url: 'https://freecatv.pages.dev'                // (Optional) URL link to the original artwork or artist's page
     }
@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'https://pub-e589435eaea240798b2c94206f7d060d.r2.dev/resources/profile.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://upload-cloudfalre-r2-assets.omrecipes.dev/siams_profile_telegram_new.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Mahamudun Nabi Siam',
   bio: 'Learning...',
   links: [
