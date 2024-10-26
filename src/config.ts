@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: true,
+    enable: false,
     src: 'https://upload-cloudfalre-r2-assets.omrecipes.dev/standard%20(1).gif',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
