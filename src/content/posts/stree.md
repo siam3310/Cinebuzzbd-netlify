@@ -1,6 +1,6 @@
 ---
 title: Stree (2018) Bollywood 
-published: 2024-10-26
+published: 2024-10-27
 image: "https://img.youtube.com/vi/gzeaGcLLl_A/maxresdefault.jpg"
 tags: [hindi,bollywood]
 category: Hindi
