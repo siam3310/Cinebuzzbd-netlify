@@ -1,5 +1,5 @@
 ---
-title: Ismart Shankar 2 (2024) Bengali Dubbed Bongo
+title: Ismart Shankar (2019) Bengali Dubbed Bongo
 published: 2024-10-27
 image: "https://img.youtube.com/vi/ym0upoayqJg/maxresdefault.jpg"
 tags: [bangla-dubb,bongo]
@@ -7,7 +7,7 @@ category: Bangla-Dubb
 draft: false
 ---
 
-#Ismart Shankar 2 (2024)-Bengali Dubbed ORG 720p.mkv   | Watch & Download
+#Ismart Shankar (2019)-Bengali Dubbed ORG 720p.mkv   | Watch & Download
   
 ## Watch
 
@@ -16,7 +16,7 @@ draft: false
 ## Download  
 
 
-* ##  [Download Ismart Shankar 2 (2024)-Bengali Dubbed ORG 720p.mkv here](https://pixeldrain.com/api/file/iMJ6r4z8?download) 
+* ##  [Download Ismart Shankar (2019)-Bengali Dubbed ORG 720p.mkv here](https://pixeldrain.com/api/file/iMJ6r4z8?download) 
 ## 
 FREEGUYBD is a noteworthy platform for individuals seeking to download the latest movies without incurring any costs. This website, accessible at freeguybd.netlify.app, offers users the opportunity to explore a diverse selection of films across various genres. One of the standout features of FREEGUYBD is its commitment to providing a seamless user experience; visitors can enjoy downloading movies without being subjected to intrusive advertisements, which often detract from the enjoyment of online browsing.
 
