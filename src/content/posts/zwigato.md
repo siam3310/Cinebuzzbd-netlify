@@ -1,6 +1,6 @@
 ---
 title: Zwigato (2023) Hindi WEB-DL
-published: 2024-10-28
+published: 2024-10-29
 image: "https://img.youtube.com/vi/RCMxX6lWJcY/maxresdefault.jpg"
 tags: [hindi]
 category: Hindi
