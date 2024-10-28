@@ -1,7 +1,7 @@
 ---
 title: Beast 2022 WebRip 720p Hindi Dubbed
 published: 2024-10-27
-image: "https://img.youtube.com/vi/oVUYA4jsMag/maxresdefault.jpg"
+image: "https://img.youtube.com/vi/0E1kVRRi6lk/maxresdefault.jpg"
 tags: [hindi-dubbed,tamil]
 category: Hindi-Dubb
 draft: false
