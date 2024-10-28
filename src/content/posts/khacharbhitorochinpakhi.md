@@ -1,5 +1,5 @@
 ---
-title:Khachar Bhitor Ochin pakhi 2021
+title: Khachar Bhitor Ochin pakhi (2021)
 published: 2024-10-28
 image: "https://img.youtube.com/vi/x8ZnY5wqCco/maxresdefault.jpg"
 tags: [bangla,chorki]
