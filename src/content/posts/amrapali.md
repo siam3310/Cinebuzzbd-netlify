@@ -1,4 +1,3 @@
-
 ---
 title: Amrapali
 published: 2024-10-30
@@ -11,9 +10,9 @@ draft: false
 # Amrapali - Watch & Download
 
 ## Watch
-QIWI
+
 <iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://spyderrock.com/nhk14708-Amrapali2022IndianBengali720p.mkv" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
-VIKING
+
 <iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://rp.vikingfile.com/download/EThxqCXj5L/Amrapali%20(2022)%20Indian%20Bengali%20720p.mkv" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 
