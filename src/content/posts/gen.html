@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Post Generator</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; background: #f0f2f5; color: #333; display: flex; justify-content: center; align-items: center; min-height: 100vh; padding: 20px; }
+        .container { max-width: 700px; width: 100%; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; overflow: hidden; }
+        h2 { color: #4a90e2; margin-bottom: 20px; text-align: center; }
+        .input-group { margin-bottom: 15px; }
+        .input-group label { font-weight: bold; display: block; margin-bottom: 5px; color: #555; }
+        .input-group input { width: 100%; padding: 10px; font-size: 16px; border: 1px solid #ddd; border-radius: 5px; transition: border-color 0.3s ease; }
+        .input-group input:focus { border-color: #4a90e2; outline: none; }
+        #generateBtn, #copyBtn, #addDownloadBtn, #addVideoBtn { width: 100%; padding: 12px; font-size: 16px; font-weight: bold; border: none; border-radius: 5px; cursor: pointer; margin-top: 10px; transition: background-color 0.3s ease; }
+        #generateBtn { background-color: #4a90e2; color: #fff; }
+        #generateBtn:hover { background-color: #357abd; }
+        #copyBtn { background-color: #50c878; color: #fff; }
+        #copyBtn:hover { background-color: #3ba162; }
+        #addDownloadBtn, #addVideoBtn { background-color: #f0ad4e; color: #fff; }
+        #addDownloadBtn:hover, #addVideoBtn:hover { background-color: #e89d3f; }
+        #output { margin-top: 20px; padding: 15px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; white-space: pre-wrap; font-family: 'Courier New', monospace; overflow-x: auto; max-height: 300px; }
+        @media (max-width: 768px) { .container { padding: 15px; } h2 { font-size: 1.5em; } #generateBtn, #copyBtn, #addDownloadBtn, #addVideoBtn { font-size: 14px; padding: 10px; } .input-group label, .input-group input { font-size: 14px; } }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Movie Post Generator</h2>
+    
+    <div class="input-group">
+        <label for="title">Title</label>
+        <input type="text" id="title" placeholder="Enter movie name">
+    </div>
+    <div class="input-group">
+        <label for="published">Published Date</label>
+        <input type="date" id="published">
+    </div>
+    <div class="input-group">
+        <label for="image">Image URL</label>
+        <input type="text" id="image" placeholder="Enter image URL">
+    </div>
+    <div class="input-group">
+        <label for="tags">Tags (comma-separated)</label>
+        <input type="text" id="tags" placeholder="e.g., kajal arefin ome,bangla,web-series,chorki">
+    </div>
+    <div class="input-group">
+        <label for="category">Category</label>
+        <input type="text" id="category" placeholder="e.g., Bangla-Dubb,Bangla,Hindi,Hindi-Dubb">
+    </div>
+
+    <div id="videoLinksContainer">
+        <div class="input-group">
+            <label>Video Server 1 URL</label>
+            <input type="text" class="video-url" placeholder="Enter video URL">
+        </div>
+    </div>
+    <button id="addVideoBtn">Add Another Video Link</button>
+
+    <div id="downloadLinksContainer">
+        <div class="input-group">
+            <label>Download Server 1 URL</label>
+            <input type="text" class="download-url" placeholder="Enter download URL">
+        </div>
+    </div>
+    <button id="addDownloadBtn">Add Another Download Link</button>
+
+    <button id="generateBtn">Generate Post</button>
+    <button id="copyBtn">Copy to Clipboard</button>
+    
+    <h3>Generated Post:</h3>
+    <pre id="output"></pre>
+</div>
+
+<script>
+    document.getElementById('generateBtn').addEventListener('click', generatePost);
+    document.getElementById('copyBtn').addEventListener('click', copyToClipboard);
+    document.getElementById('addDownloadBtn').addEventListener('click', addDownloadLink);
+    document.getElementById('addVideoBtn').addEventListener('click', addVideoLink);
+
+    let downloadLinkCount = 1;
+    let videoLinkCount = 1;
+
+    function addDownloadLink() {
+        downloadLinkCount++;
+        const downloadLinksContainer = document.getElementById('downloadLinksContainer');
+        
+        const newDownloadGroup = document.createElement('div');
+        newDownloadGroup.classList.add('input-group');
+        newDownloadGroup.innerHTML = `
+            <label>Download Server ${downloadLinkCount} URL</label>
+            <input type="text" class="download-url" placeholder="Enter download URL">
+        `;
+        
+        downloadLinksContainer.appendChild(newDownloadGroup);
+    }
+
+    function addVideoLink() {
+        videoLinkCount++;
+        const videoLinksContainer = document.getElementById('videoLinksContainer');
+        
+        const newVideoGroup = document.createElement('div');
+        newVideoGroup.classList.add('input-group');
+        newVideoGroup.innerHTML = `
+            <label>Video Server ${videoLinkCount} URL</label>
+            <input type="text" class="video-url" placeholder="Enter video URL">
+        `;
+        
+        videoLinksContainer.appendChild(newVideoGroup);
+    }
+
+    function generatePost() {
+        const title = document.getElementById('title').value;
+        const published = document.getElementById('published').value;
+        const image = document.getElementById('image').value;
+        const tags = document.getElementById('tags').value;
+        const category = document.getElementById('category').value;
+        
+        const videoUrls = document.querySelectorAll('.video-url');
+        let videoLinks = '';
+        videoUrls.forEach((input, index) => {
+            if (input.value.trim() !== '') {
+                videoLinks += `<iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="${input.value.trim()}" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>\n\n`;
+            }
+        });
+
+        const downloadUrls = document.querySelectorAll('.download-url');
+        let downloadLinks = '';
+        downloadUrls.forEach((input, index) => {
+            if (input.value.trim() !== '') {
+                downloadLinks += `* ## [Download Server ${index + 1} - GDrive server](${input.value.trim()})\n\n`;
+            }
+        });
+
+        const postContent = `
+---
+title: ${title}
+published: ${published}
+image: "${image}"
+tags: [${tags}]
+category: ${category}
+draft: false
+---
+
+# ${title} - Watch & Download
+
+## Watch
+
+${videoLinks}
+
+## Download  
+
+${downloadLinks}
+
+FREEGUYBD হল এমন ব্যক্তিদের জন্য একটি উল্লেখযোগ্য প্ল্যাটফর্ম যারা কোনো খরচ ছাড়াই সর্বশেষ সিনেমা ডাউনলোড করতে চান। freeguybd.netlify.app-এ অ্যাক্সেসযোগ্য এই ওয়েবসাইটটি ব্যবহারকারীদের বিভিন্ন ঘরানার বিভিন্ন ধরনের চলচ্চিত্র অন্বেষণ করার সুযোগ দেয়। FREEGUYBD এর অসাধারণ বৈশিষ্ট্যগুলির মধ্যে একটি হল এটি একটি নির্বিঘ্ন ব্যবহারকারী অভিজ্ঞতা প্রদানের প্রতিশ্রুতি; দর্শকরা প্রায়শই অনুরূপ সাইটগুলিকে আঘাত করে এমন অনুপ্রবেশকারী বিজ্ঞাপনের শিকার না হয়ে মুভি ডাউনলোড করা উপভোগ করতে পারে।
+`;
+
+        document.getElementById('output').textContent = postContent;
+    }
+
+    function copyToClipboard() {
+        const output = document.getElementById('output');
+        navigator.clipboard.writeText(output.textContent)
+            .then(() => alert("Copied to clipboard!"))
+            .catch(err => console.error("Error copying to clipboard: ", err));
+    }
+</script>
+
+</body>
+</html>
