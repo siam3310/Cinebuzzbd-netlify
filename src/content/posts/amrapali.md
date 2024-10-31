@@ -1,4 +1,3 @@
-
 ---
 title: Amrapali
 published: 2024-10-30
