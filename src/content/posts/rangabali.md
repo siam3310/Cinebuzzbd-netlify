@@ -10,14 +10,15 @@ draft: false
 # Rangabali Hindi-Dubbed WebDL - Watch & Download
 
 ## Watch
-1080P
+### 1080P
 <iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/B6FKGsiW?download" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
-720P
+
+### 720P
 <iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/JramEngV?download" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 
 
-## Download  
+### Download  
 
 * ## [Download Server 1- 1080P ](https://pixeldrain.com/api/file/B6FKGsiW?download)
 
