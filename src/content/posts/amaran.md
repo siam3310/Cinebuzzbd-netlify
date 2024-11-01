@@ -10,9 +10,9 @@ draft: false
 # Amaran (2024) HDTS Hindi-Dubb - Watch & Download
 
 ## Watch
+<iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://spyderrock.com/ddME2996-Amaran2024HDTS1080px264AAC.mkv" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 <iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/W8sX11k2?download" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
-
 
 
 ## Download  
