@@ -13,13 +13,13 @@ draft: false
 ### Pixeldrain
 <iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/3UXZvQAq?download" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 ### QIWI
-<iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://spyderrock.com/uJSE8413-BhoolBhulaiyaa32024HindiHDTC1080p.mkv" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
+<iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatv.pages.dev/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://spyderrock.com/uJSE8413-BhoolBhulaiyaa32024HindiHDTC1080p.Bhool%20Bhulaiyaa%203%20(2024)%20Hindi%20HDTC%201080p" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 
 ## Download  
 ### 1 click download link
 * ## [Download HDTC 1080P - Pixedrain ](https://pixeldrain.com/api/file/3UXZvQAq?download)
-* ## [Download HDTC 1080P - QIWI ](https://spyderrock.com/uJSE8413-BhoolBhulaiyaa32024HindiHDTC1080p.mkv)
+* ## [Download HDTC 1080P - QIWI ](https://spyderrock.com/uJSE8413-BhoolBhulaiyaa32024HindiHDTC1080p.Bhool%20Bhulaiyaa%203%20(2024)%20Hindi%20HDTC%201080p)
 * ## [Download HDTC 1080P - VIKING ](https://du.vikingfile.com/download/zQmhLCzGR2/Bhool%20Bhulaiyaa%203%20(2024)%20Hindi%20HDTC%201080p)
 
 
