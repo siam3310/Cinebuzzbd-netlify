@@ -1,13 +1,13 @@
 ---
-title: Adhunik Bangla Hotel S01E01 - Boal Macher Jhol
-published: 2024-11-01
-image: "https://img.youtube.com/vi/kemgcfwDdLY/maxresdefault.jpg"
+title: Adhunik Bangla Hotel S01 E01,2
+published: 2024-11-07
+image: "[https://img.youtube.com/vi/kemgcfwDdLY/maxresdefault.jpg](https://img.youtube.com/vi/5viBho8S9us/maxresdefault.jpg)"
 tags: [bangla,web-series]
 category: Bangla
 draft: false
 ---
 
-# Adhunik Bangla Hotel S01E01 - Boal Macher Jhol - Watch & Download
+# Adhunik Bangla Hotel S01 E01,02 -- Watch & Download
 
 ## Watch
 ### 720P
@@ -20,6 +20,8 @@ draft: false
 * ## [Download Server 1 - 720P ](https://pixeldrain.com/api/file/vxouvo6p?download)
 
 * ## [Download Server 2 - 1080P ](https://pixeldrain.com/api/file/yxjmTXBn?download)
-* পর্ব ২ - আগামী সপ্তাহে আসবে ...
+### SEASON 1 | EPISODE -2
+* ## [Download Server 2 - 1080P ](https://pixeldrain.com/api/file/MiHmvhKA?download) 
+* পর্ব 3 - আগামী সপ্তাহে আসবে ...
 
 FREEGUYBD হল এমন ব্যক্তিদের জন্য একটি উল্লেখযোগ্য প্ল্যাটফর্ম যারা কোনো খরচ ছাড়াই সর্বশেষ সিনেমা ডাউনলোড করতে চান। freeguybd.netlify.app-এ অ্যাক্সেসযোগ্য এই ওয়েবসাইটটি ব্যবহারকারীদের বিভিন্ন ঘরানার বিভিন্ন ধরনের চলচ্চিত্র অন্বেষণ করার সুযোগ দেয়। FREEGUYBD এর অসাধারণ বৈশিষ্ট্যগুলির মধ্যে একটি হল এটি একটি নির্বিঘ্ন ব্যবহারকারী অভিজ্ঞতা প্রদানের প্রতিশ্রুতি; দর্শকরা প্রায়শই অনুরূপ সাইটগুলিকে আঘাত করে এমন অনুপ্রবেশকারী বিজ্ঞাপনের শিকার না হয়ে মুভি ডাউনলোড করা উপভোগ করতে পারে।
