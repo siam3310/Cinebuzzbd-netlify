@@ -1,7 +1,7 @@
 ---
 title: Adhunik Bangla Hotel S01 E01,2
 published: 2024-11-07
-image: "[https://img.youtube.com/vi/kemgcfwDdLY/maxresdefault.jpg](https://img.youtube.com/vi/5viBho8S9us/maxresdefault.jpg)"
+image: "https://img.youtube.com/vi/5viBho8S9us/maxresdefault.jpg"
 tags: [bangla,web-series]
 category: Bangla
 draft: false
