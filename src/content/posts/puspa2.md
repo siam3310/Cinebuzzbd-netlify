@@ -2,7 +2,7 @@
 title: Puspa 2 : The Rule
 published: 2024-12-05
 image: "https://img.youtube.com/vi/1kVK0MZlbI4/maxresdefault.jpg"
-tags: [hindi-dubb,dual-audio]
+tags: [hindi-dubb,dual-audio,]
 category: Hindi-Dubb
 draft: false
 ---
