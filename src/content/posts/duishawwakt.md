@@ -10,8 +10,8 @@ draft: false
 # Dui Shaw - Waqt (2024) Chorki Original - 1080P - 720P - Watch & Download
 
 ## Watch
-## 1080P
-<iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatvold.netlify.app/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/uh9QLGK8?download" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
+## 720P
+<iframe frameborder="0" allowfullscreen="true" scrolling="no" allow="autoplay;fullscreen" src="https://freecatvold.netlify.app/gdplayer?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https://pixeldrain.com/api/file/6zzFKR9q?download" style="border:0px #ffffff none;" height="560px" width="100%" allowfullscreen></iframe>
 
 
 
